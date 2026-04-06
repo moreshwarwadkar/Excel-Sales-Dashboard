@@ -53,7 +53,8 @@ The goal of this project is to transform **raw sales data** into a meaningful an
 
 ## 📷 **Dashboard Preview**
 
-> ⚠️ *Add screenshots of your dashboard here after uploading your project*
+<img width="1917" height="1004" alt="Screenshot 2026-04-06 171647" src="https://github.com/user-attachments/assets/3be5142c-cf86-43db-9eef-de2e2513be97" />
+
 
 ---
 
@@ -67,7 +68,7 @@ The goal of this project is to transform **raw sales data** into a meaningful an
 
 ## 👤 **Author**
 
-**Your Name**
+**Moreshwar Wadkar**
 
 ---
 
